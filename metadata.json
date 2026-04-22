@@ -1,0 +1,6 @@
+{
+  "name": "VoxMaster - Art Oratoire & Éloquence",
+  "description": "Une application complète pour maîtriser l'art oratoire : exercices de diction, improvisation guidée, enregistrement audio et analyse par IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
